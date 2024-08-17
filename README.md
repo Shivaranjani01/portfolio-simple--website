@@ -33,6 +33,4 @@ Feel free to browse through the site and provide any feedback or suggestions. Yo
 
 ---
 
-Thank you for checking out my portfolio!
-
-# portfolio-simple--website
+Thank you for checking out my portfolio
