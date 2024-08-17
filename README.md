@@ -4,7 +4,7 @@ Welcome to my **Portfolio Website**! This project is a showcase of my skills in 
 
 ## How to view
 
-you can access my portfolio website by visiting[https://shivaranjani01.github.io/portfolio-simple--website/]feel free to explore the content and get in touch!!
+you can access my portfolio website by visiting[https://shivaranjani01.github.io/portfolio-simple--website/] free to explore the content and get in touch!!
 
 ## 🖼️ Overview
 
